@@ -7,3 +7,4 @@ To compile the CV modify the `cv.tex` file with your details and compile with `x
 ```
 xelatex cv_12.tex
 ``` 
+This should create a cv_12.pdf in your directory
